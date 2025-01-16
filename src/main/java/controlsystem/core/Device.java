@@ -1,4 +1,4 @@
-package main.java.controlsystem.devices;
+package main.java.controlsystem.core;
 
 public interface Device {
     void turnOn();
